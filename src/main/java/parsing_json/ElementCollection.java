@@ -13,4 +13,8 @@ public class ElementCollection {
     public ElementCollection where(String fieldName, Object value) {
         return null;
     }
+
+    public int size() {
+        return size();
+    }
 }

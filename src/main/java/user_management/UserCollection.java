@@ -17,4 +17,8 @@ public class UserCollection {
     public int createUser(String name, String email, String password) {
         return 0;
     }
+
+    public int size() {
+        return size();
+    }
 }
